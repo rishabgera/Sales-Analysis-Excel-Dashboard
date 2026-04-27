@@ -15,7 +15,7 @@ This project is an Excel-based sales analysis of an e-commerce store (Vrinda Sto
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](dashboard/dashboard.png)
+([Dashboard] dashboard.png)
 
 ---
 
