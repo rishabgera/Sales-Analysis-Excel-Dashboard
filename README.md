@@ -60,4 +60,4 @@ Built an interactive Excel dashboard to help businesses:
 ---
 
 ## 👤 Author
-Rishabh
+Rishab Gera
